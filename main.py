@@ -3,7 +3,7 @@ import requests
 import pandas as pd
 
 # מפתח ה-API שלך
-API_KEY = "Sxy9RAwzKcSnYNWR4jQRKTaTyXZY3Hvu"
+API_KEY = "***"
 
 def get_stock_data():
     # חיבור ל-API של Financial Modeling Prep (דוגמה)
